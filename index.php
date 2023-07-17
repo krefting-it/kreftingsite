@@ -8,4 +8,5 @@ echo $title;
 ?></h1>
 
 <p>
-    <b>Was ist das für eine Webseite?</b>
+    <b>Was ist das für eine Webseite?</b><br />
+    <i>Das ist eine Plattform zum Lernen von Programmieren</i><br />
